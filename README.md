@@ -1,4 +1,3 @@
-[![MasterHead]([[https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fmachine-learning-engineer-career-salary-insights-and-future%2F&psig=AOvVaw0uXmGFkAi_uyeuDlcfizP9&ust=1694754589272000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCB4vyqqYEDFQAAAAAdAAAAABAE)](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220829011319/Machine-Learning-Engineer.jpg))](https://syalwadeap.io)
 <h1 align="center">Hi 👋, I'm Syalwa</h1>
 <h3 align="center">A passionate Machine Learning from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
